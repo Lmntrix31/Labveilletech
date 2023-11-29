@@ -113,3 +113,8 @@ Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon
 ## 💻 Need Custom Development Services?
 
 If you need a custom theme, theme customization, or complete website development services from scratch you can [Hire Us](https://zeon.studio/).
+
+// pour donner le lien du site sur netlify
+## 🚀 Deployment
+
+My web site : https://labveilletech-rossinylongo.netlify.app/
