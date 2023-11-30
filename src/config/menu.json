@@ -10,7 +10,7 @@
     },
     {
       "name": "Elements",
-      "url": "/elements"
+      "url": "/Labveilletech/elements"
     },
     {
       "name": "Pages",
@@ -19,27 +19,27 @@
       "children": [
         {
           "name": "Contact",
-          "url": "/contact"
+          "url": "/Labveilletech/contact"
         },
         {
           "name": "Blog",
-          "url": "/blog"
+          "url": "/Labveilletech/blog"
         },
         {
           "name": "Authors",
-          "url": "/authors"
+          "url": "/Labveilletech/authors"
         },
         {
           "name": "Categories",
-          "url": "/categories"
+          "url": "/Labveilletech/categories"
         },
         {
           "name": "Search",
-          "url": "/search"
+          "url": "/Labveilletech/search"
         },
         {
           "name": "404 Page",
-          "url": "/404"
+          "url": "/Labveilletech/404-page"
         }
       ]
     }
@@ -47,11 +47,11 @@
   "footer": [
     {
       "name": "Elements",
-      "url": "/elements"
+      "url": "/Labveilletech/elements"
     },
     {
       "name": "Privacy Policy",
-      "url": "/privacy-policy"
+      "url": "/Labveilletech/privacy-policy"
     }
   ]
 }
