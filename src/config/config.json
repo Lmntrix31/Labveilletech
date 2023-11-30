@@ -2,7 +2,7 @@
   "site": {
     "title": "Astroplate",
     "base_url": "https://lmntrix31.github.io",
-    "base_path": "/Labveilletech",
+    "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
