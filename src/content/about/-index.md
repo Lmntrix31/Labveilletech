@@ -8,7 +8,7 @@ draft: false
 
 ### Marier le Football à l'UX/UI
 
-Je m'appelle Rossiny Longo est, je suis un designer UX/UI passionné par le football. Je suis convaincue que le design peut transcender les frontières du virtuel pour créer des expériences uniques et engageantes, surtout dans le contexte passionnant du football. Je suis une professionnelle passionné de l'UX/UI et fervente amatrice de football, mon domaine d'expertise se situe à l'intersection de deux univers fascinants. Je suis convaincue que le design peut transcender les frontières du virtuel pour créer des expériences uniques et engageantes, surtout dans le contexte passionnant du football.
+Je m'appelle Rossiny Longo est, je suis une designeuse UX/UI passionné par le football. Je suis convaincue que le design peut transcender les frontières du virtuel pour créer des expériences uniques et engageantes, surtout dans le contexte passionnant du football. Je suis une professionnelle passionné de l'UX/UI et fervente amatrice de football, mon domaine d'expertise se situe à l'intersection de deux univers fascinants. Je suis convaincue que le design peut transcender les frontières du virtuel pour créer des expériences uniques et engageantes, surtout dans le contexte passionnant du football.
 
 ### Identité du site
 
