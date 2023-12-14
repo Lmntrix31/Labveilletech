@@ -5,10 +5,10 @@
     "base_path": "/Labveilletech",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/Labveilletech/images/logo.png",
-    "logo_darkmode": "/Labveilletech/images/logo-darkmode.png",
-    "logo_width": "150",
-    "logo_height": "30",
+    "logo": "/Labveilletech/images/logo-en-noir5.png",
+    "logo_darkmode": "/Labveilletech/images/logo-en-blanc5.png",
+    "logo_width": "70",
+    "logo_height": "70",
     "logo_text": "Astroplate"
   },
   "settings": {

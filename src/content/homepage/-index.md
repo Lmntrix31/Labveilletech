@@ -1,13 +1,13 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "Rejoignez-moi dans cette aventure où le football et le design se rencontrent, créant des expériences qui transcendent le simple spectateur pour engager et inspirer chaque fan."
+  content: ""
   image: "/Labveilletech/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/astroplate"
+    label: "A propos de moi"
+    link: "https://lmntrix31.github.io/Labveilletech/about"
 
 # Features
 features:
