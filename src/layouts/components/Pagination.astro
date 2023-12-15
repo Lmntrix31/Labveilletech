@@ -26,9 +26,11 @@ for (let i = 1; i <= totalPages; i++) {
       {hasPrevPage ? (
         <a
           href={
-            indexPageLink
-              ? `${section ? "/" + section : "/"}`
-              : `${section ? "/" + section : ""}/page/${currentPage - 1}`
+            currentPage === 1
+              ? `/${section ? section + "/" : ""}Labveilletech/blog`
+              : `/${section ? section + "/" : ""}Labveilletech/blog/page/${
+                  currentPage - 1
+                }`
           }
           class="rounded px-2 py-1.5 text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light"
         >
@@ -87,7 +89,7 @@ for (let i = 1; i <= totalPages; i++) {
           >
             {pagination}
           </a>
-        )
+        ),
       )}
 
       {/* next page */}
