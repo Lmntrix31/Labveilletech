@@ -1,15 +1,15 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Accueil",
       "url": "/Labveilletech"
     },
     {
-      "name": "About",
+      "name": "A propos",
       "url": "/Labveilletech/about"
     },
     {
-      "name": "Elements",
+      "name": "Projets",
       "url": "/Labveilletech/elements"
     },
     {
@@ -26,7 +26,7 @@
           "url": "/Labveilletech/blog"
         },
         {
-          "name": "Authors",
+          "name": "CV",
           "url": "/Labveilletech/authors"
         },
         {

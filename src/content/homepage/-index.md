@@ -6,8 +6,8 @@ banner:
   image: "/Labveilletech/images/banner.png"
   button:
     enable: true
-    label: "About Me"
-    link: "https://lmntrix31.github.io/Labveilletech/about"
+    label: "Voir mon CV"
+    link: "https://lmntrix31.github.io/Labveilletech/authors"
 
 # Features
 features:
