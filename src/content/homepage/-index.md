@@ -3,51 +3,28 @@
 banner:
   title: "Rejoignez-moi dans cette aventure où le football et le design se rencontrent, créant des expériences qui transcendent le simple spectateur pour engager et inspirer chaque fan."
   content: ""
-  image: "/Labveilletech/images/banner.png"
+  image: ""
   button:
     enable: true
-    label: "Voir mon CV"
-    link: "https://lmntrix31.github.io/Labveilletech/authors"
+    label: "A propos de moi "
+    link: "https://lmntrix31.github.io/Labveilletech/about"
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
-    image: "/Labveilletech/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+  - title: "Qu'est-ce que l'UX/UI?"
+    image: "/Labveilletech/images/ux-ui.png"
+    content: "UX/UI fait référence à deux disciplines du design, l'expérience utilisateur (UX) et l'interface utilisateur (UI), cruciales pour concevoir des produits, sites Web et applications interactifs."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Se concentre sur l'interaction utilisateur avec un produit."
+      - "Objectif : optimiser facilité d'utilisation, accessibilité et satisfaction."
+      - "Comprend la recherche utilisateur, la création de personas et la conception de parcours pour une interaction fluide."
+      - "Concerne la conception visuelle et interactive."
+      - "Englobe la disposition, les couleurs, les polices et les éléments visuels"
+      - "Les designers UI visent à allier esthétique et fonctionnalité en suivant des principes de conception et des normes visuelles."
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Astro"
-    image: "/Labveilletech/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-    button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
-    image: "/Labveilletech/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
-    button:
-      enable: false
-      label: ""
-      link: ""
 ---
